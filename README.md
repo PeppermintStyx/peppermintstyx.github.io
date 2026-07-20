@@ -1,2 +1,2 @@
-# peppermintydev.github.io
+# peppermintstyx.github.io
 Fabricated Resume for school assignment
